@@ -1,0 +1,6 @@
+{
+  "name": "Google Merchandise Store - Improved E-Commerce Experience",
+  "description": "Redesigned Google Merchandise Store featuring the Google Gear Drop campaign, responsive product and editorial photography galleries, and streamlined mobile-first checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
